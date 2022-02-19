@@ -21,6 +21,7 @@ document.addEventListener("DOMContentLoaded", ( ) => {
 			href: 'http://twitter.com'
 		}
 	];
+	debugger
 	for (var i = 0; i<data.length; i++) {
 		if (data.text) {
 			const pElement = document.createElement("p");

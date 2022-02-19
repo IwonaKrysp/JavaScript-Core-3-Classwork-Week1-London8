@@ -1,3 +1,4 @@
-if (3 > Math.PI {
+
+if (3 > Math.PI) {
     console.log("wait what?");
 }
